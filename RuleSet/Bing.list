@@ -4,10 +4,11 @@ DOMAIN-SUFFIX,events.microsoft.com
 DOMAIN-SUFFIX,events.data.msn.com
 DOMAIN-SUFFIX,mobile.microsoft.com
 DOMAIN-SUFFIX,smartscreen.microsoft.com
-DOMAIN-SUFFIX,events.data.microsoft.com
+DOMAIN-SUFFIX,data.microsoft.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
 DOMAIN-SUFFIX,edgetippingservice.webxtsvc.microsoft.com
 DOMAIN-SUFFIX,msftstatic.com
 DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,challenges.cloudeflare.com
