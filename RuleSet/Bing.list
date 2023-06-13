@@ -1,9 +1,11 @@
-DOMAIN-SUFFIX,bing.com
+DOMAIN-KEYWORD,bing
 DOMAIN-SUFFIX,edge.microsoft.com
 DOMAIN-SUFFIX,events.microsoft.com
 DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,mobile.microsoft.com
-DOMAIN-SUFFIX,data-edge.smartscreen.microsoft.com
+DOMAIN-SUFFIX,smartscreen.microsoft.com
 DOMAIN-SUFFIX,events.data.microsoft.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
+DOMAIN-SUFFIX,edgetippingservice.webxtsvc.microsoft.com
